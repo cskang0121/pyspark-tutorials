@@ -1,3 +1,4 @@
 # PySpark Tutorials 
 
-This repository contains my practices and learning materials for PySpark
+- This repository is for self-learning purposes
+- Topic : PySpark Fundamentals and Databricks 
