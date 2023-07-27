@@ -6,4 +6,4 @@
 > Special thanks to Krish Naik for creating this amazing introductory course in PySpark.
 
 ## References
-– https://www.youtube.com/watch?v=_C8kWso4ne4
+- [PySpark Course By Krish Naik](https://www.youtube.com/watch?v=_C8kWso4ne4)
